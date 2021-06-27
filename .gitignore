@@ -130,3 +130,6 @@ dmypy.json
 .pyre/
 /lesson_3-4/creditcard.csv
 /lesson_5-6/creditcard.csv
+/kursach/input/train.csv
+/kursach/input/test.csv
+/kursach/output/result.csv
