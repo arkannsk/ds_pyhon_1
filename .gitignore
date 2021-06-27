@@ -133,3 +133,4 @@ dmypy.json
 /kursach/input/train.csv
 /kursach/input/test.csv
 /kursach/output/result.csv
+/kursach/input/sample_submission.csv
